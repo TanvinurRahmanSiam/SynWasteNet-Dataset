@@ -1,0 +1,2 @@
+images,labels,classes,resolution,annotation_format,total_boxes,avg_boxes_per_image
+6000,6000,10,640x640,"YOLO txt (cls xc yc w h), normalized",21057,3.51

@@ -1,0 +1,11 @@
+class_id,class_name,instances
+0,plastic,2061
+1,paper,2099
+2,cardboard,2133
+3,metal,2055
+4,glass,2123
+5,organic,2098
+6,battery,2157
+7,e_waste,2132
+8,cloth,2124
+9,other_waste,2075
